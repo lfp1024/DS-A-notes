@@ -1,3 +1,9 @@
+/**
+ * 数组乱序
+ */
+
+
+
 function outOfOrder(arr) {
     let m = arr.length - 1;
     while (m > 0) {
